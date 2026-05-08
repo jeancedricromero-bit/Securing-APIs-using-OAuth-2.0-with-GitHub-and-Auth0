@@ -1,0 +1,20 @@
+i. What happens when a user accesses /profile without logging in?
+    - If a user tries to access the profile page without logging in, the system will block access and redirect them to the login page.
+
+ii. What data is returned after successful login?
+    - Avatar
+    - bio
+    - blog
+    - login
+    - Name
+    - node_id
+    etc..
+
+iii. Why is OAuth considered more secure than traditional Login?
+    - OAuth is more secure because users don’t need to share their passwords directly with the application.
+
+iv. What challenges did you encounter?
+    - One challenge I encountered was configuring the callback URLs correctly and debugging the routes.
+
+v. What did you learn from this activity?
+    - What I learned from this activity is how OAuth 2.0 helps secure APIs and web applications.
